@@ -1,0 +1,18 @@
+{
+    "requirements":[
+        {
+            "companyName":"Test Yantra",
+            "skillsRequired":"Java react WebTech",
+            "bond":"No bond",
+            "salary":"3LPA",
+            "id":1
+        },
+        {
+            "companyName":"Signiwis",
+            "skillsRequired":"Java J2EE Hibernate Springboot",
+            "bond":"3 Years",
+            "salary":"4LPA",
+            "id":2
+        }
+    ]
+}
